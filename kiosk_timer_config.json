@@ -1,0 +1,6 @@
+{
+  "countdown_seconds": 300,
+  "laptop_details": "Laptop 1\nBrand: Thinkpad\nModel: OS\nAsset Tag: 1\nUser: MICHAEL",
+  "override_ip": "192.168.21",
+  "override_location": "Lal-lo"
+}
